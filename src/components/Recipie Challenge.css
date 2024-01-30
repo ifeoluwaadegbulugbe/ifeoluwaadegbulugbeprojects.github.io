@@ -1,0 +1,49 @@
+.con{
+    margin-left: 95px;
+}
+.cbn{
+margin-left: 102px;
+}
+.can{
+    margin-left: 111px;
+}
+.cln{
+    margin-left:129px;
+}
+.sep{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 90px;
+    margin-left: 100px;
+   background-color: white;
+ border-radius: 5%;
+}
+body{
+    background-color:hsl(330, 100%, 98%) ;
+}
+img{
+    height:190px;
+    width:1200px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right:30px ;
+    border-radius: 10%;
+}
+.ted{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+    color:hsl(332, 51%, 32%)
+}
+.prep{
+    background-color:hsl(330, 100%, 98%) ;
+    border-radius: 5%;
+  
+}
+li{
+    margin-bottom: 20px;
+}
+.container div{
+margin-bottom: 20px;
+}
