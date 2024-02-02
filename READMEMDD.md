@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor]( https://ww
 
 ### Links
 
-- [My Solution](https://www.frontendmentor.io/solutions/react-project-with-tailwind-and-daisyui-i0wYtSVQJt)
-- [Live site](https://recipe-page-indol.vercel.app/)
+- [My Solution](https://github.com/ifeoluwaadegbulugbe/ifeoluwaadegbulugbeprojects.github.io)
+- [Live site](https://ifeoluwaadegbulugbe.github.io/ifeoluwaadegbulugbeprojects.github.io/)
 
 
 ### Built with
